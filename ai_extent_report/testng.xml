@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="WebTestSummarySuite">
+	<listeners>
+    <listener class-name="tests.AISummaryListener" />
+  </listeners>
+  <test name="ui-tests">
+    <classes>
+      <class name="tests.SampleTests" />
+    </classes>
+  </test>
+</suite>

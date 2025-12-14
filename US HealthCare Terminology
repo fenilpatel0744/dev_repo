@@ -1,0 +1,168 @@
+U.S. Healthcare – IPA, Health Plan, Claims & Key Terminology
+1. Health Plan
+A health plan is the insurer/payor that provides coverage and pays for healthcare services.
+Examples of Health Plans:
+Medicare
+Medicare Advantage (private health plans)
+Original Medicare (government fee-for-service)
+Medicaid
+Managed Medicaid (MCOs)
+Fee-for-Service Medicaid
+Commercial / Private Insurance
+Employer-sponsored plans
+Individual ACA plans
+👉 Medicare and Medicaid ARE health plans, but not the only ones.
+
+2. IPA (Independent Practice Association)
+An IPA is an organization that contracts with health plans on behalf of independent physicians and sometimes hospitals or other providers.
+IPA may be delegated by the health plan to:
+Process claims
+Pay providers
+Perform utilization management
+IPA is NOT the payor, but may pay claims on behalf of the health plan
+
+3. Payor
+The payor is the entity that ultimately pays for healthcare services.
+Examples:
+Health plans (Medicare Advantage, Managed Medicaid, Commercial plans)
+👉 IPA administers payments, but the health plan is the true payor.
+
+4. Provider
+A provider is any licensed individual or facility that delivers healthcare services.
+Includes:
+Doctors (MD / DO)
+Nurse practitioners (NP)
+Physician assistants (PA)
+Hospitals, labs, imaging centers
+
+5. Member / Patient
+The member (patient/beneficiary) is the person enrolled in a health plan who receives healthcare services.
+
+6. Claim
+A claim is a request for payment submitted by the provider to the health plan or IPA for services provided to a member.
+👉 A claim is NOT a contract.
+
+7. Date of Service (DOS)
+The date on which the provider delivers healthcare services to the member.
+
+8. Received Date
+The date the IPA or health plan receives the claim.
+Used to determine:
+Timely filing
+Payment turnaround time
+
+9. Copay
+A fixed dollar amount the member pays at the time of service.
+The remaining allowed amount is paid by the health plan (or IPA per contract).
+
+10. Coinsurance
+A percentage of the allowed amount the member pays, usually after the deductible is met.
+
+11. Deductible
+The amount the member must pay annually before the health plan begins paying for covered services.
+
+12. Authorization (Prior Authorization)
+Approval required before certain services to confirm:
+Medical necessity
+Coverage under the health plan
+👉 Authorization is NOT eligibility.
+
+13. Withhold
+A portion of provider payment held by the IPA, usually released later based on:
+Financial performance
+Quality metrics
+Contract terms
+
+14. Adjustment Code
+Codes used on a claim to explain:
+Denial
+Reduction
+Modification of payment
+(e.g., missing authorization, bundling, timely filing)
+
+15. Release to AP (Accounts Payable)
+Indicates the claim is approved and ready for payment.
+
+16. Timely Filing
+A rule requiring providers to submit claims within a defined time limit.
+Late submission may result in:
+Denial
+Payment reduction
+
+17. Interest
+If the IPA or health plan fails to pay within the required timeframe, interest may be applied based on:
+State law
+Contract terms
+HMO, POS, and PPO are types of health insurance plans, and the difference is mainly about provider choice, referrals, and cost. Here’s a clear, side-by-side explanation.
+
+18. HMO (Health Maintenance Organization)
+Key Features
+PCP required (Primary Care Physician)
+Referrals required to see specialists
+Only in-network care is covered (except emergencies)
+Lowest cost (lower premiums, copays)
+How it works
+Member chooses a PCP
+PCP coordinates all care
+IPA involvement is very common
+Best for
+Lower cost
+Structured care
+Less flexibility
+
+19. PPO (Preferred Provider Organization)
+Key Features
+No PCP required
+No referral needed for specialists
+In-network and out-of-network coverage
+Higher cost (higher premiums, coinsurance)
+How it works
+Member can see any provider
+In-network costs less
+Out-of-network costs more
+Best for
+Flexibility
+Direct access to specialists
+
+20. POS (Point of Service)
+Key Features
+Hybrid of HMO and PPO
+PCP required
+Referrals usually required
+Out-of-network coverage allowed (with higher cost)
+How it works
+Works like HMO in-network
+Works like PPO when going out-of-network
+Best for
+Moderate flexibility
+Moderate cost
+
+Quick Comparison Table
+Feature
+HMO
+POS
+PPO
+PCP required
+✅ Yes
+✅ Yes
+❌ No
+Referral needed
+✅ Yes
+✅ Usually
+❌ No
+Out-of-network
+❌ No (except ER)
+✅ Yes
+✅ Yes
+Cost
+Lowest
+Medium
+Highest
+IPA involvement
+High
+Medium
+Low
+
+
+Medicare & Medicaid = WHO provides coverage. They are types of health plans that provide insurance coverage
+HMO / PPO / POS = HOW coverage is structured. These describe how the coverage works, not who provides it

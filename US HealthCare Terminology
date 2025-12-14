@@ -166,3 +166,27 @@ Low
 
 Medicare & Medicaid = WHO provides coverage. They are types of health plans that provide insurance coverage
 HMO / PPO / POS = HOW coverage is structured. These describe how the coverage works, not who provides it
+
+21. Billed Amount
+Definition: The total amount the provider charges for a service rendered to the member.
+
+22. Allowed Amount
+Definition: The maximum amount the health plan will recognize and pay for a service according to the contracted rate with the provider.
+The member and health plan together never pay more than this amount.
+
+23. Net Amount
+Net Amount is the final amount the health plan or IPA actually pays to the provider for a claim.
+
+Assume:
+Billed Amount = $1,000
+Allowed Amount = $600
+Copay = $50
+Deductible = $300
+Coinsurance = $50
+Step 1: Calculate Total Member Responsibility
+$50 (copay) + $300 (deductible) + $50 (coinsurance) = $400
+Step 2: Net Amount Paid by Plan / IPA
+Allowed Amount = $600
+Member pays $400
+Net Amount = $600 − $400 = $200
+
